@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Arthur Veras<br><br>I am currently a Data Science and AI Researcher Intern at Universidade de Fortaleza(UNIFOR) and Computer Science Undergrad Student at Universidade de Fortaleza<br><br>🔭 currently working with data science, operational research and complex networks <br>🌱 I’m currently learning Pandas, Seaborn, Scikit-learn, PyTorch, Flask and Tensorflow
+Hi 👋, I'm Arthur Veras<br><br>I am currently a Data Science and AI Researcher Intern at Universidade de Fortaleza(UNIFOR) and Computer Science Undergrad Student at Universidade de Fortaleza<br><br>🔭 currently working with data science, operational research and complex networks <br>🌱 I’m currently learning Scikit-learn, PyTorch, Tensorflow, NLTK e PySpark
 
 
 ## 🌐 Socials:
